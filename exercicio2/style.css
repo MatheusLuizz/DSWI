@@ -1,0 +1,13 @@
+
+div {
+    margin: 10px;
+}
+label {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 5px;
+}
+.form-section {
+    border: 2px solid #000;
+    padding: 20px;
+}
